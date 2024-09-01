@@ -97,7 +97,7 @@ section {
 }
 
 /* Footer styles */
-footer {
+/*footer {
     background-color: #333;
     color: white;
     text-align: center;
@@ -107,7 +107,7 @@ footer {
     bottom: 0;
     margin-bottom: 0;
     z-index: 100;
-}
+}*/
 
 /* Social icons styles */
 .social-icons {
